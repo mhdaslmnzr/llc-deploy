@@ -1,0 +1,25 @@
+#aboutus{
+    text-align: justify;
+}
+
+#interior-pic{
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    border: 30px solid white;
+}
+
+#activities{
+    color: black;
+}
+
+#pointer{
+    cursor: pointer;
+}
+
+#justifyd{
+    text-align: justify;
+}
+
+#break{
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
