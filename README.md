@@ -1,2 +1,2 @@
 # llc-deploy
-Final version
+This the deployed version of loveland cottages website
